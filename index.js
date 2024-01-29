@@ -1,2 +1,3 @@
 import { name } from "./module";
-console.log(name);
+import "./style.css";
+console.log("your name:" + name);
